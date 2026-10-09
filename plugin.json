@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "discord",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Discord messaging connected to OpenAgent conversations.",
   "license": "Apache-2.0",
   "homepage": "https://github.com/anthropics/claude-plugins-official/tree/ac996c0dde7fb2a9f805cd5277ffc95ecd44a321/external_plugins/discord",
