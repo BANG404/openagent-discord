@@ -4,10 +4,10 @@
   "path": "external_plugins/discord",
   "source_sha256": "9bc2a0ea9aeb313bd4c65f964263e27b80ba6cb0a27acb8d7b681a7e6db33c61",
   "artifacts": {
-    "channel.mjs": "1d2de1ff4a1b91088ad0aad2f56acc6579be07d7be6794e6437a4a5f9cc89655",
+    "channel.mjs": "6e2fd4ad9207e392b450ff352d4fde16f215f59d5fbf85159f1f562314817c53",
     "command.mjs": "e44260c98308fd85009c4f6fa0ecb3d7e5da1ed1a0b3504c00313fcf68cb3ef4",
-    "integration.mjs": "5d84a76f9c816ad8493d054faeadc5f0c3a35b90b6d05295fbc9580dbdc21cb0",
-    "status.mjs": "db08b2ec3d5c5de96b264cb54b90fa34b76a9156d0219d084317a8769b76f118",
-    "unavailable.mjs": "d221f7f833ee1cde91556ed3770ec05b2aaf441753c16beaab3fc3e51cb5bd9f"
+    "integration.mjs": "b3438f69433cd0c88a3c68e236b0da5737cd9f032d12466fd55cce80106f5273",
+    "status.mjs": "8f2e2b2a46efb184c2bb6432f32f97acbf4aa15cbce207d208cbd8357bf01c23",
+    "unavailable.mjs": "49ce740a291f28b7334c083922f17d8278a8e784b1f1491e4dc904c11668643b"
   }
 }
